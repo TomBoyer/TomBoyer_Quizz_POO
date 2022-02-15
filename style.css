@@ -21,7 +21,8 @@ body h1 {
   font-size: 3rem;
 }
 body h1 span, body h1 i {
-  color: #ffa502;
+  /* color: #ffa502; */
+  color: pink;
 }
 body h3 {
   color: #ffa502;
